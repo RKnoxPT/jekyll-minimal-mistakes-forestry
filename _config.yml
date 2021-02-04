@@ -14,8 +14,8 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Minimal Mistakes Forestry Starter"
+locale                   : "pt-PT"
+title                    : "Cidadão Comum"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
