@@ -246,7 +246,7 @@ pt: &DEFAULT_PT
   related_label              : "Também pode gostar de"
   follow_label               : "Siga:"
   feed_label                 : "Feed"
-  powered_by                 : ""
+  powered_by                 : "Feito por"
   website_label              : "Site"
   email_label                : "Email"
   recent_posts               : "Artigos Recentes"
