@@ -2,9 +2,10 @@
 main:
   - title: "Quick-Start Guide"
     url: /quick-start-guide/
-  - title: "About"
+  - title: "Sobre"
     url: /about/
+  - title: "Categorias"
+    url: /categories/  
   - title: "Arquivo"
     url: /year-archive/
-  - title: "Categorias"
-    url: /categories/
+
